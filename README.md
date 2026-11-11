@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sumakdas14-gif/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumakdas14-gif/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sumakdas14-gif/DSA/tree/master/0018-4sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sumakdas14-gif/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sumakdas14-gif/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
