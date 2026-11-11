@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sumakdas14-gif/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumakdas14-gif/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumakdas14-gif/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sumakdas14-gif/DSA/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sumakdas14-gif/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sumakdas14-gif/DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/sumakdas14-gif/DSA/tree/master/0069-sqrtx) |
 ## Trie
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sumakdas14-gif/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sumakdas14-gif/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
