@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sumakdas14-gif/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumakdas14-gif/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sumakdas14-gif/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumakdas14-gif/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumakdas14-gif/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumakdas14-gif/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumakdas14-gif/DSA/tree/master/0031-next-permutation) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumakdas14-gif/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sumakdas14-gif/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
