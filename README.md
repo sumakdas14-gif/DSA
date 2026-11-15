@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sumakdas14-gif/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sumakdas14-gif/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumakdas14-gif/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/sumakdas14-gif/DSA/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sumakdas14-gif/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sumakdas14-gif/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumakdas14-gif/DSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/sumakdas14-gif/DSA/tree/master/0041-first-missing-positive) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sumakdas14-gif/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sumakdas14-gif/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
