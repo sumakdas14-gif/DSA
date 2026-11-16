@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sumakdas14-gif/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sumakdas14-gif/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sumakdas14-gif/DSA/tree/master/0043-multiply-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sumakdas14-gif/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sumakdas14-gif/DSA/tree/master/0043-multiply-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sumakdas14-gif/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
