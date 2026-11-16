@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sumakdas14-gif/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sumakdas14-gif/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sumakdas14-gif/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/sumakdas14-gif/DSA/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sumakdas14-gif/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sumakdas14-gif/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sumakdas14-gif/DSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sumakdas14-gif/DSA/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/sumakdas14-gif/DSA/tree/master/0069-sqrtx) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Trie
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sumakdas14-gif/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sumakdas14-gif/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
