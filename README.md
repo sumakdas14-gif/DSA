@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sumakdas14-gif/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sumakdas14-gif/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sumakdas14-gif/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/sumakdas14-gif/DSA/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sumakdas14-gif/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sumakdas14-gif/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumakdas14-gif/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumakdas14-gif/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumakdas14-gif/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sumakdas14-gif/DSA/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumakdas14-gif/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sumakdas14-gif/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sumakdas14-gif/DSA/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Manacher
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumakdas14-gif/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sumakdas14-gif/DSA/tree/master/0042-trapping-rain-water) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sumakdas14-gif/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumakdas14-gif/DSA/tree/master/0042-trapping-rain-water) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sumakdas14-gif/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
