@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sumakdas14-gif/DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sumakdas14-gif/DSA/tree/master/0044-wildcard-matching) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sumakdas14-gif/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sumakdas14-gif/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sumakdas14-gif/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumakdas14-gif/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sumakdas14-gif/DSA/tree/master/0042-trapping-rain-water) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sumakdas14-gif/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sumakdas14-gif/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sumakdas14-gif/DSA/tree/master/0045-jump-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sumakdas14-gif/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Manacher
 |  |
 | ------- |
