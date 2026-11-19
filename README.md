@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sumakdas14-gif/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sumakdas14-gif/DSA/tree/master/0048-rotate-image) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sumakdas14-gif/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sumakdas14-gif/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sumakdas14-gif/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sumakdas14-gif/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sumakdas14-gif/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sumakdas14-gif/DSA/tree/master/0047-permutations-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sumakdas14-gif/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -217,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/sumakdas14-gif/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sumakdas14-gif/DSA/tree/master/0045-jump-game-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sumakdas14-gif/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
