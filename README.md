@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sumakdas14-gif/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumakdas14-gif/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sumakdas14-gif/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sumakdas14-gif/DSA/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sumakdas14-gif/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sumakdas14-gif/DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sumakdas14-gif/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/sumakdas14-gif/DSA/tree/master/0049-group-anagrams) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sumakdas14-gif/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sumakdas14-gif/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sumakdas14-gif/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sumakdas14-gif/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sumakdas14-gif/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sumakdas14-gif/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sumakdas14-gif/DSA/tree/master/0049-group-anagrams) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sumakdas14-gif/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sumakdas14-gif/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sumakdas14-gif/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sumakdas14-gif/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sumakdas14-gif/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sumakdas14-gif/DSA/tree/master/0049-group-anagrams) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sumakdas14-gif/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Linked List
 |  |
