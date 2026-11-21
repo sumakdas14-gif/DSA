@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sumakdas14-gif/DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/sumakdas14-gif/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sumakdas14-gif/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sumakdas14-gif/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sumakdas14-gif/DSA/tree/master/0069-sqrtx) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Trie
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sumakdas14-gif/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumakdas14-gif/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/sumakdas14-gif/DSA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/sumakdas14-gif/DSA/tree/master/0050-powx-n) |
 ## Newton's Method
 |  |
 | ------- |
