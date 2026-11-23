@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sumakdas14-gif/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sumakdas14-gif/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/sumakdas14-gif/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sumakdas14-gif/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sumakdas14-gif/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sumakdas14-gif/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sumakdas14-gif/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sumakdas14-gif/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sumakdas14-gif/DSA/tree/master/0069-sqrtx) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sumakdas14-gif/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Trie
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sumakdas14-gif/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sumakdas14-gif/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sumakdas14-gif/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
@@ -267,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sumakdas14-gif/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sumakdas14-gif/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sumakdas14-gif/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
