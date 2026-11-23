@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumakdas14-gif/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumakdas14-gif/DSA/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sumakdas14-gif/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sumakdas14-gif/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
@@ -244,11 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sumakdas14-gif/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0100-same-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sumakdas14-gif/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sumakdas14-gif/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0100-same-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sumakdas14-gif/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
@@ -258,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sumakdas14-gif/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
