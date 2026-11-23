@@ -244,9 +244,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0100-same-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sumakdas14-gif/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0100-same-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sumakdas14-gif/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sumakdas14-gif/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
